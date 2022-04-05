@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302405951318",
+    "project_id": "evaluate-health-31f94",
+    "storage_bucket": "evaluate-health-31f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302405951318:android:c2c49690ca22dad09140f7",
+        "android_client_info": {
+          "package_name": "com.react_native_evaluate_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302405951318-c37f9ifrbivk9qhq19765bl9nflg8ekj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.react_native_evaluate_health",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "302405951318-b539oqjaspeuabf7ap0v4pmg1rg7evuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwu8u1OkqViKjB0KfzF13c3_Lx2_y6Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302405951318-b539oqjaspeuabf7ap0v4pmg1rg7evuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
